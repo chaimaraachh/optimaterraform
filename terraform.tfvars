@@ -16,5 +16,10 @@ webappbacksuppliersName = "fraaprdsuppliers0001"
 blob_storage_account_Name = "fraaprdblobstorage0001"
 key_vault_Name = "fraaprdkvault0001"
 
-sql_server_name         = "optimaSqlDBserver"
-sql_DB_name             = "optimaSqlDB"
+sql_server_name         = "optimasqldbserver"
+sql_DB_name             = "optimasqldb"
+
+sql_admin_login = "adminnaxxum"
+sql_admin_password = "Mdpnaxxumadmin0000/*"
+
+service_bus_name = "fraaprdoptima001"

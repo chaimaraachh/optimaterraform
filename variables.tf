@@ -68,3 +68,19 @@ variable "key_vault_Name" {
   description = "The name of key vault"
   type        = string
 }
+variable "sql_admin_password" {
+  description = "The password of the sql server"
+  type        = string
+}
+variable "sql_admin_login" {
+  description = "The login of the sql server"
+  type        = string
+}
+variable "sql_DB_name" {
+  description = "The name of the sql database"
+  type        = string
+}
+variable "service_bus_name" {
+  description = "The name of the service bus"
+  type        = string
+}
