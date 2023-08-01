@@ -20,6 +20,6 @@ sql_server_name         = "optimasqldbserver"
 sql_DB_name             = "optimasqldb"
 
 sql_admin_login = "adminnaxxum"
-sql_admin_password = "Mdpnaxxumadmin0000/*"
+sql_admin_password = ""
 
 service_bus_name = "fraaprdoptima001"
